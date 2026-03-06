@@ -1,0 +1,4 @@
+geopandas
+rasterstats
+rasterio
+fiona
