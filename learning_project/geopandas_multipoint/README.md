@@ -7,8 +7,8 @@ Demonstrates GeoPandas basics:
 3. Export GeoJSON.
 
 ## Run
-1. Install: \`pip install geopandas shapely\`
-2. Jupyter: \`jupyter notebook geopandas_multipoint.ipynb\`
-3. Check \`multipoint.geojson\`.
+1. Install: `pip install geopandas shapely`
+2. Jupyter: `jupyter notebook geopandas_multipoint.ipynb`
+3. Check `multipoint.geojson`.
 
 Generated: 2026-03-02 by Jarvis.
