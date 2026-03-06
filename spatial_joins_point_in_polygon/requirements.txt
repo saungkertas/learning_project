@@ -1,0 +1,7 @@
+geopandas>=0.14.0
+shapely>=2.0.0
+matplotlib>=3.8.0
+folium>=0.15.0
+jupyter
+pandas
+numpy

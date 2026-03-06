@@ -1,0 +1,5 @@
+geopandas>=0.14.0
+folium>=0.15.0
+jupyter
+pandas
+numpy

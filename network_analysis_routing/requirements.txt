@@ -1,0 +1,8 @@
+osmnx>=1.9.0
+networkx>=3.0
+geopandas>=0.14.0
+folium>=0.15.0
+matplot lib>=3.8.0
+jupyter
+pandas
+shapely
